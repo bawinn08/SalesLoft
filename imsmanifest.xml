@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5s2jMxYSW24_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">SalesLoft - Best Practices for Managing Sellers</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="SalesLoft_-_Best_Practices_for_Managing_Sellers_ORG">
+    <organization identifier="SalesLoft_-_Best_Practices_for_Managing_Sellers_ORG">
+      <title>SalesLoft - Best Practices for Managing Sellers</title>
+      <item identifier="SalesLoft_-_Best_Practices_for_Managing_Sellers_SCO" isvisible="true" identifierref="__5s2jMxYSW24_course_id_RES">
+        <title>SalesLoft - Best Practices for Managing Sellers</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5s2jMxYSW24_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6HqruJECbZU_DX2090_DY2090_CX1644_CY913.png" />
+      <file href="mobile/5mWpqc2XUq7_DX286_DY286_CX224_CY198.png" />
+      <file href="story_content/5UneDOlOTgD_44100_56_0.mp3" />
+      <file href="mobile/6iUxGkWwZ3P_DX1094_DY1094_CX859_CY541.png" />
+      <file href="mobile/67KHFW0Nefa_DX902_DY902_CX451_CY405.png" />
+      <file href="mobile/6iUxGkWwZ3P_DX1092_DY1092_CX712_CY448.png" />
+      <file href="mobile/5kQYs2iC8Na_DX1202_DY1202_CX926_CY583.png" />
+      <file href="mobile/5z6CIjw4O0E_DX1134_DY1134_CX889_CY560.png" />
+      <file href="mobile/68HJDnHtkMg_DX960_DY960_CX754_CY475.png" />
+      <file href="mobile/5sUkEpILySL_P_2_0_920_583_DX664_DY664_CX518_CY328.png" />
+      <file href="mobile/6LFUo9H41Fw_P_2_0_920_583_DX664_DY664_CX518_CY328.png" />
+      <file href="mobile/5zBaiGtQwMp_P_2_0_920_583_DX664_DY664_CX518_CY328.png" />
+      <file href="mobile/6qyvle7dA6w_P_0_-1_926_586_DX550_DY550_CX431_CY273.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ye6IOMeZEP.js" />
+      <file href="html5/data/js/6BM1KcNS8UZ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
